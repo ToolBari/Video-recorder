@@ -25,6 +25,7 @@ import com.toolbari.videorecorder.data.PickedFile
 import com.toolbari.videorecorder.data.RecordingOptions
 import com.toolbari.videorecorder.data.Shape
 import com.toolbari.videorecorder.data.Size
+import com.toolbari.videorecorder.data.resolution
 
 /**
  * Screen 2: recording options. Shape (9:16 / 16:9 / 1:1) and size
